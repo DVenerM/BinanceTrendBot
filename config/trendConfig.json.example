@@ -1,0 +1,12 @@
+{
+  "api_key": "",
+  "api_secret": "",
+  "coin": "BTC",
+  "currency": "USDT",
+  "up_percent": 1,
+  "down_percent": 1,
+  "invest_percent": 99,
+  "check_interval": 30,
+  "slack_token": "",
+  "slack_channel": ""
+}
