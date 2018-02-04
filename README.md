@@ -1,5 +1,5 @@
 # BinanceTrendBot
-Simple Momentum Trade Bot for Binance. Tracks upward/downward momentum and triggers buy/sell. Supports all valid trade pairs.
+Simple Momentum Trade Bot for Binance. Tracks upward/downward momentum via maket floors/ceilings and triggers buy/sell. Supports all valid trade pairs.
 
 # Requires
 `pip install python-binance`
