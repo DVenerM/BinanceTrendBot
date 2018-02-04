@@ -2,6 +2,8 @@
 Simple Momentum Trade Bot for Binance. Tracks upward/downward momentum via maket floors/ceilings and triggers buy/sell. Supports all valid trade pairs.
 
 # Requires
+Binance Account (Referral: https://www.binance.com/?ref=15669890)
+
 `pip install python-binance`
 
 `pip install slackclient`
